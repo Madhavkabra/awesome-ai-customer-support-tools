@@ -116,6 +116,42 @@ Customer expectations are rising, and traditional support methods can't keep up.
 
 ---
 
+## 🛠 Use This Repo To:
+
+- Discover the best AI support tools to integrate into your stack.
+- Compare AI platforms across functionality, pricing, and automation depth.
+- Stay updated with 2025’s innovations in customer support automation.
+- Submit PRs for new tools or corrections.
+
+---
+
+## 📩 Want to Add a Tool?
+
+Open a PR or create an Issue with:
+- Tool name
+- Website or GitHub link
+- 1–2 line description
+- Optional: category tag (Chatbot, CRM, RPA, etc.)
+
+---
+
+## 👥 Maintainers
+
+Built and maintained by the team behind [Twig](https://twig.so) – the fastest way to deploy real-time, autonomous AI agents for your website, product, or helpdesk.
+
+---
+
+## 📄 License
+
+[MIT](LICENSE)
+
+---
+
+## 🌟 Star This Repo
+
+If this list helped you, consider starring it to help others find it too!
+---
+
 ### 20. **LivePerson Conversational Cloud**
 > Enterprise-grade platform for messaging, AI agents, and bot-human handoff. Popular with retail and telecom companies.
 
